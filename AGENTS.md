@@ -39,6 +39,8 @@ Static HTML, no build and no dependencies. Edit `index.html` or `404.html` and p
 
 Member of the bamr87 fleet. The standards live in the hub: <https://github.com/bamr87/bamr87/tree/main/specs> (the Universal Project Standard). Commit here first; the hub bumps its submodule pointer afterwards.
 
+Org-wide context (who BASH is, the rules, every org repo's card) lives in the org brain: https://github.com/bash-365/bash-365.com/tree/main/brain.
+
 ## Standard deviations
 
 - UPS-REPO-02/03: no source, test or docs directories. The product is two HTML files; the README is the whole documentation.
